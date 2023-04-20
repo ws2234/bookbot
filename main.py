@@ -20,5 +20,4 @@ with open("books/frankenstein.txt") as f:
     print(file_contents)
 
 count_words(file_contents)
-
 count_letters(file_contents)
